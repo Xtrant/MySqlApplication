@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySqlApplication</string>
+    <string name="registration_title">Registration Form</string>
+    <string name="id_title">Student ID</string>
+    <string name="student_first_name">Student First Name</string>
+    <string name="student_last_name">Student Last Name</string>
+    <string name="student_email">Student Email</string>
+    <string name="student_major">Student Major</string>
+    <string name="registration_btn_title">Register</string>
+</resources>
